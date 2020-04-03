@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+clusterings/*
+results/*
+data/*/splits/*
+data/ligra_formats/*
+checkpoints/

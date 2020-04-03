@@ -1,0 +1,5 @@
+networkx==1.11
+pytorch
+scikit-learn
+scipy
+numpy
