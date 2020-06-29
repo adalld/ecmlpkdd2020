@@ -1,6 +1,6 @@
 # Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi-Scale Local Label Distribution
 
-### This work is currently under review for ecml2020
+### This work is currently under review for wi2020
 This project contains the Python implementation for the work published in *Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi-Scale Local Label Distribution*.
 Please clone the project (alongside with the adopted ligra project from [here](https://github.com/adalld/ligra)) and set up your Python environment accordingly.
 
